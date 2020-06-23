@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836030796786",
+    "firebase_url": "https://fir-react-eb53f.firebaseio.com",
+    "project_id": "fir-react-eb53f",
+    "storage_bucket": "fir-react-eb53f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836030796786:android:7f1d756c53a58922b8d16b",
+        "android_client_info": {
+          "package_name": "com.fatih_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836030796786-6603jrercq87jjla0353uliod65qiig1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyAFt5Ey4PHpP5p6GJyeO-E_5KE0zv6JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836030796786-6603jrercq87jjla0353uliod65qiig1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
